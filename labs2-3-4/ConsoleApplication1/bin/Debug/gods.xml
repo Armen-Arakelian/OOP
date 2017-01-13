@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfGod xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <God>
+    <name>Zevs</name>
+    <ancientAge>342343467</ancientAge>
+  </God>
+  <God>
+    <name>Venera</name>
+    <ancientAge>53453453</ancientAge>
+  </God>
+  <God>
+    <name>Upiter</name>
+    <ancientAge>879798798</ancientAge>
+  </God>
+  <God>
+    <name>Aid</name>
+    <ancientAge>353453</ancientAge>
+  </God>
+  <God>
+    <name>Appolon</name>
+    <ancientAge>2342342</ancientAge>
+  </God>
+</ArrayOfGod>
